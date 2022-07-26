@@ -1,4 +1,4 @@
-# project-vue
+# Тестовый проект для Централизованной библиотечной системы Выборгского района
 
 ## Project setup
 ```
@@ -15,5 +15,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
